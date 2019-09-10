@@ -1,0 +1,8 @@
+Redis needs to be created on PCF and bind iwth app before start
+
+use 'sudo -s' to get to root so load balancer ./start-load-balancer.sh can run
+
+sudo -s ./start-load-balancer.sh
+
+need to know the password of root
+
